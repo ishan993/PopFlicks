@@ -1,0 +1,18 @@
+<resources>>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:actionOverflowMenuStyle">@style/Base.ThemeOverlay.AppCompat.Dark</item>
+        <item name="android:popupBackground">@color/colorBackgroundApp</item>
+w
+
+    </style>
+    <style name="customAppTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:textColor">@color/darkTextColor</item>
+        <item name="android:actionOverflowMenuStyle">@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+</resources>

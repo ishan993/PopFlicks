@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0097A7</color>
+    <color name="colorPrimaryDark">#006064</color>
+    <color name="colorAccent">#95a5a6</color>
+    <color name="colorBackgroundApp">#95a5a6</color>
+    <color name="colorBackground">#FAFAFA</color>
+    <color name="ElevatedColor">#ECEFF1</color>
+    <color name="lightTextColor">#ECEFF1</color>
+    <color name="colorCard">#424242</color>
+    <color name="textColor">#ECEFF1</color>
+    <color name="DarkBackground">#263238</color>
+    <color name="darkTextColor">#000</color>
+
+</resources>

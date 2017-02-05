@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PopFlicks</string>
+    <string name="action_settings">About</string>
+    <string name="Rating">Rating</string>
+    <string name="releaseYear">Year: </string>
+    <string name="mainActBaseURL">https://api.themoviedb.org/3/discover/movie</string>
+    <string name="APIKey">5cba18ca95a598NOPE62b5fed30c3</string>
+    <string name="baseAPIURL">https://api.themoviedb.org/3/movie/</string>
+    <string name="popularityDesc">popular</string>
+    <string name="voteDesc">top_rated</string>
+    <string name="moviePosterImageURL">http://image.tmdb.org/t/p/w185/</string>
+    <string name="movieBackdropImageURL">http://image.tmdb.org/t/p/w780/</string>
+    <string name="youtubeAPIKey">AIzaSyA5SvxzMwe9ZNotReallyWYZVjl954sHvN6o</string>
+    <string name="snackbarNoInternet">No internet connection</string>
+    <string name="snackbarRetry">Retry</string>
+    <string name="progressDialogBoxTitle">Loading</string>
+    <string name="filterSettings">Filter Settings</string>
+    <string name="Loading">Loading</string>
+</resources>

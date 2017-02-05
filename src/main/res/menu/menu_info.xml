@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ishanvadwala.nanodegree01.Fragments.MovieInfoFragment">
+    <item
+
+        android:id="@+id/backButton"
+        android:icon="@drawable/ic_arrow_back_white_24dp"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="100"
+        android:title="Compose"
+        />
+</menu>
