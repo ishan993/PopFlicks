@@ -1,6 +1,6 @@
 # PopFlicks
 Android app that uses TMDB's APIs to show list of movies, their info, reviews, &amp; trailers.
-
+Released on Google Play store: bit.ly/ishanApp
 Leveraged TheMovieDB’s APIs to display movies, filter them by popularity or ratings, shows their reviews and play trailers using Youtube’s SDK.
 
 Designed the UI to support a wide range of screen sizes and orientations by reusing fragments in different layout configurations to optimize user experience, used Google’s Material Design Guidelines.
